@@ -7,7 +7,7 @@ Design of a simple To Do List that you can add and delete tasks with React.
 Clone this repository and install it in your development environment using the following command in your terminal (choose an appropriate directory):
 
 ```
->git clone https://github.com/brunamolinar/API-ColetaSeletiva.git
+>git clone https://github.com/brunamolinar/ToDoList-ReactJS.git
 ```
 Access the created directory:
 ```
